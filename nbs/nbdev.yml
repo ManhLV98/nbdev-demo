@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-demo"
+  site-url: "https://ManhLV98.github.io/nbdev-demo"
+  description: "nbdev-demo"
+  repo-branch: main
+  repo-url: "https://github.com/ManhLV98/nbdev-demo"
